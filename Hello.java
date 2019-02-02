@@ -1,5 +1,6 @@
 publi class Hello {
 	public static void main(String[] args) {
-		System.out.println("Hello Java!");
+		String str = "Hello Java!";
+		System.out.println(str);
 	}
 }

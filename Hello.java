@@ -1,4 +1,4 @@
-publi class Hello {
+class Hello {
 	public static void main(String[] args) {
 		String str = "Hello Java!";
 		System.out.println(str);
@@ -9,5 +9,6 @@ publi class Hello {
 				System.out.println("=");
 			}
 		}
+		System.out.println("Hello World!");
 	}
 }
